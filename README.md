@@ -1,4 +1,4 @@
-### Hola, I'm Ashish Kumar Rastogi!
+### Hola, I'm Ashish Kumar Rastogi!👋
 
 
 - 🔭 I’m currently pursuing my btech in Electrical Engineering from NIT Jamshedpur
@@ -8,4 +8,4 @@
 - 📫 How to reach me: Email - ashish.rastogi183@gmail.com , Contact info - 7903791911
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening to music for 12 hours a day..
--->
+
