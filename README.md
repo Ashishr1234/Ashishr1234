@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AshishK98657323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk98657323" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ashish Kumar Rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar rastogi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-kumar-rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish kumar rastogi" height="30" width="40" /></a>
 <a href="https://fb.com/Ashish Rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish kumar rastogi" height="30" width="40" /></a>
 <a href="https://instagram.com/rastogi3510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rastogi3510" height="30" width="40" /></a>
 <a href="https://medium.com/@Ashish Kumar Rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashish kumar rastogi" height="30" width="40" /></a>
