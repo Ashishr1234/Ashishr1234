@@ -6,12 +6,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rastogi</h1>
 <h3 align="center">Welcome to my Github Profile</h3>
 <p align="left"> - 🔭 I’m currently pursuing my Btech in Electrical Engineering from NIT Jamshedpur</p>
-<p align="left">- 🌱 I’m currently learning Web devlopment / Android Development</p>
-<p align="left">- 👯 I’m looking to collaborate on Github and Linkedin</p>
+<p align="left">- 🌱 I’m currently learning Web devlopment</p>
+<p align="left">- 👯 I’m looking to collaborate on Web projects</p>
 <p align="left">- 💬 Ask me about cpp, open source or any other tech related stuffs</p>
 <p align="left">- 📫 How to reach me: Email - ashish.rastogi183@gmail.com , Contact info - 7903791911</p>
 <p align="left>- 😄 Pronouns: He/His</p>
-<p align="left">- ⚡ Fun fact: I think i am funny..</p>
+<p align="left">- ⚡ Fun fact:I know it's crazy but I love to eat</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishr1234&label=Profile%20views&color=0e75b6&style=flat" alt="ashishr1234" /> </p>
 
